@@ -4,5 +4,5 @@
 2. From the menu select "Tools/Render Camera as Skybox"
 
 ## View Skybox outside of Unity
-s. README.txt of build
+s. README.txt of build  
 (Built using Electron Fiddle)
